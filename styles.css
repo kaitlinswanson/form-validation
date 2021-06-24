@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  #form { 
+    padding:15px;
+    display: flex;
+    font-size: 18px;  
+    align-items: center;  
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+#submit { 
+    padding: 5px;
+}
